@@ -1,6 +1,6 @@
 Hello,
 
-I'm an engineering student with a passion for AI and machine learning. I've worked on various projects, from developing backend tools to experimenting with LLMs.
+I'm an engineering student with a passion for Web And App Development. I've worked on various full stack projects and working applications.
 
 
 ---
