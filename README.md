@@ -7,8 +7,8 @@ I'm an engineering student with a passion for Web And App Development. I've work
 
 ### Contact me via
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kushagra-kumar-599261275/)](https://www.linkedin.com/in/kushagra-kumar-599261275/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarkushagra777@gmail.com)](mailto:kumarkushagra777@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/kartik-verma-b95596273/)](https://www.linkedin.com/in/kartik-verma-b95596273/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kartikverma2k4@gmail.com)](mailto:kartikverma2k4@gmail.com)
 
 ## Languages and Tools 
 
